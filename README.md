@@ -26,7 +26,7 @@ Our tech stack will include:
 * **PostgreSQL** as our database of choice
 * **Python3** and **Flask** as our server language and server framework
 * **Flask-Migrate** for creating and running schema migrations
-* **HTML**, **CSS**, and **Javascript** with [Bootstrap 3](https://getbootstrap.com/docs/3.4/customize/) for our website's frontend
+* **HTML**, **CSS**, and **Javascript** with [Bootstrap 4](https://getbootstrap.com/) for our website's frontend
 
 ### Main Files: Project Structure
 
