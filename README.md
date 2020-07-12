@@ -1,5 +1,5 @@
-# Fyyur-Artist-Booking-Site
-Udacity - Full Stack Web Developer Nanodegree Project 01
+# 🔥 Fyyur-Artist-Booking-Site
+Udacity - Full Stack Web Developer 👨‍💻 Nanodegree Project 01
 -----
 
 ### Introduction
